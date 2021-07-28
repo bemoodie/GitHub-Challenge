@@ -1,0 +1,25 @@
+h3 {
+  text-align: center;
+}
+.container {
+  display: block;
+  margin: 0 auto;
+}
+.vl {
+  border-left: 3px solid black;
+  height: 100px;
+}
+i {
+  margin: 20px;
+  font-size: 50px;
+}
+.col {
+  text-align: center;
+}
+.main {
+  text-align: center;
+  font-size: 200px;
+  border: 1px solid green;
+  border-radius: 300px;
+  padding: 5rem;
+}
